@@ -1,0 +1,12 @@
+# Syntax coloring map for Enrf24
+
+# Datatypes (KEYWORD1)
+Utils	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+initRed	KEYWORD2
+blinkRed	KEYWORD2
+readTemperature	KEYWORD2
+readBattery	KEYWORD2
+printDec	KEYWORD2
+dump_radio_status_to_serialport	KEYWORD2
